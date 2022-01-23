@@ -1,7 +1,10 @@
-.TITLE{
+body{
+  background-color: rgb(183, 175, 186);
+  }  
+h1{
   margin: auto;
-  position: absolute;
   font-family: "Garamond", "Palatino", serif;
+  text-align: center;
 }
 
 h3{
