@@ -2,3 +2,10 @@
   margin: auto;
   position: absolute;
 }
+
+h3{
+  border-top: 1px solid rgb(222, 222, 222);
+  border-bottom: 1px solid rgb(222, 222, 222);
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
